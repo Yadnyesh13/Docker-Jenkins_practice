@@ -159,7 +159,3 @@ sudo docker rmi 2cd1d97f893f
 
 ---
 
-```
-
----
-
